@@ -1,0 +1,4 @@
+interface:
+  display_name: "女频短篇商业编辑"
+  short_description: "策划、拆解并创作强情绪、高爽点、可商业化的女频短篇小说。"
+  default_prompt: "使用 $female-commercial-short-fiction-editor，根据这个灵感完成商业拆解和章节卡。"

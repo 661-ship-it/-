@@ -1,0 +1,4 @@
+interface:
+  display_name: "女频短篇商业审稿编辑"
+  short_description: "按爆款规则审查女频短篇的爽感密度、付费力与反派清算力度"
+  default_prompt: "使用 $auditing-female-commercial-short-fiction 审查以下女频短篇正文，并给出 P0-P2 商业修改方案。"
